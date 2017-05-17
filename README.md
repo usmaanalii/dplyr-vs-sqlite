@@ -2,7 +2,7 @@
 
 During the first semester of my [MSc Advanced Computer Science][a31613ec] degree, I took a module called Statistical Techniques for Data Analytics.
 
-This repository represents the coursework that was required to complete the module.
+This repository contains the final report produces, as well as two seperate directories containing the code for each  method.
 
 - [Task](#task)
 - [Code and Analysis](#code-and-analysis)
