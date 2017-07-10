@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Question 2 - Add SS_ID\nnrow(income_data) # Find how many rows\nincome_data <- mutate(income_data, SS_ID = c(1:nrow(income_data)))\n\n# Change column names\nincome_data <- income_data %>% rename(\n    AAGE = X73, ADTIND = X0, ADTOCC = X0.1, AHGA = High.school.graduate,\n    AHRSPAY = X0.2, AMJIND = Not.in.universe.or.children,\n    AMJOCC = Not.in.universe.2, AREORGN = All.other, ASEX = Female,\n    AWKSTAT = Not.in.labor.force, GRINREG = Not.in.universe.5,\n    GRINST = Not.in.universe.6, PARENT = Not.in.universe.7,\n    PRCITSHP = Native..Born.in.the.United.States, WKSWORK = X0.8, ARACE = White)\n\n",
+    "created" : 1499722129346.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1252212038",
+    "id" : "9338B317",
+    "lastKnownWriteTime" : 1499722476,
+    "last_content_update" : 1499722476642,
+    "path" : "/Applications/XAMPP/xamppfiles/htdocs/xampp/repos/dplyr-vs-sqlite/Dplyr (Complete)/2.R",
+    "project_path" : "2.R",
+    "properties" : {
+        "docOutlineVisible" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

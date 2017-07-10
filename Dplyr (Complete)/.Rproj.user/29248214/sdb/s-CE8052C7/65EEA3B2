@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Installing dplyr\ninstall.packages(\"dplyr\")\nlibrary(dplyr)\n\n# Importing data\nincome_data <- read.csv(\"census-income.data.gz\")\n",
+    "created" : 1499722127324.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1301116884",
+    "id" : "65EEA3B2",
+    "lastKnownWriteTime" : 1499722085,
+    "last_content_update" : 1499722085,
+    "path" : "/Applications/XAMPP/xamppfiles/htdocs/xampp/repos/dplyr-vs-sqlite/Dplyr (Complete)/1.R",
+    "project_path" : "1.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
