@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Dplyr\\ (Complete)/packrat/\nDplyr\\ (Complete)/Dplyr_intro.Rproj\nDplyr\\ (Complete)/.RProfile",
+    "created" : 1499722874257.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2525551922",
+    "id" : "C8043B2D",
+    "lastKnownWriteTime" : 1499722830,
+    "last_content_update" : 1499722993045,
+    "path" : "/Applications/XAMPP/xamppfiles/htdocs/xampp/repos/dplyr-vs-sqlite/.gitignore",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
