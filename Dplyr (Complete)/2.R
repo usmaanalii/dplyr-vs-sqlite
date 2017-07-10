@@ -10,3 +10,4 @@ income_data <- income_data %>% rename(
     AWKSTAT = Not.in.labor.force, GRINREG = Not.in.universe.5,
     GRINST = Not.in.universe.6, PARENT = Not.in.universe.7,
     PRCITSHP = Native..Born.in.the.United.States, WKSWORK = X0.8, ARACE = White)
+
